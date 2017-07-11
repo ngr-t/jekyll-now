@@ -21,7 +21,6 @@ Had worked with:
   - C++
   - SQL
   - SAS
-  - Sublime Text 3
 
 Recent interest:
 
@@ -31,6 +30,7 @@ Recent interest:
   - Julia programming language
   - Functional programming
 
+------
 
 フリーランスのソフトウェアエンジニア / データサイエンティストです。
 学部では生物情報学を、修士では理論神経科学を専攻していました。
@@ -62,4 +62,4 @@ NTTデータ数理システムに3年務めた後独立。
 といったところです。
 
 Contanct me at:
-[negotetsu@hotmail.com](mailto:negotetsu@hotmail.com)
+[negotetsu@gmail.com](mailto:negotetsu@gmail.com)
